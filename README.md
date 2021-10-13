@@ -1,6 +1,6 @@
 # Serverless Data Pipeline on GCP
 Useful link(s):
-* https://cloud.google.com/blog/products/application-development/how-to-schedule-a-recurring-python-script-on-gcp
+* [How to Schedule a Recurring Python Script on GCP](https://cloud.google.com/blog/products/application-development/how-to-schedule-a-recurring-python-script-on-gcp)
 * [How to use GCP service account in Google Cloud Function? - Stack Overflow](https://stackoverflow.com/questions/55671256/how-to-use-gcp-service-account-in-google-cloud-function)
 * [python - How to handle keys and credentials when deploying to Google Cloud Functions? - Stack Overflow](https://stackoverflow.com/questions/58594343/how-to-handle-keys-and-credentials-when-deploying-to-google-cloud-functions)
 
