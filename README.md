@@ -136,4 +136,3 @@ gcloud beta scheduler jobs list
 * Cloud Build - [required to build code into container image used by Cloud Functions](https://cloud.google.com/functions/docs/deploying#deployment)
 * App Engine Admin API - [required for running Cloud Scheduler](https://cloud.google.com/scheduler/docs/tut-pub-sub#before-you-begin)
 * If `iam.serviceAccounts.actAs` permission not added to service account then 403 error occurs. Add `iam.serviceAccounts.actAs` to service via a custom role.
-* For Cloud Scheduler to work - we need to create an App Engine app.
